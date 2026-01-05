@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "ls -la"
+    "test": "ls -la /home/mozakk"
   },
   "keywords": [],
   "author": "",
