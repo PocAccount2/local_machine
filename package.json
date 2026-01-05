@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "ls -la /home/mozakk"
+    "test": "echo \"you have been pwnd\" >> /home/mozakk/Desktop/poc.txt"
   },
   "keywords": [],
   "author": "",
